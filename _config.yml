@@ -1,0 +1,28 @@
+name: ADRIA Primary School
+favicon: null
+layout_spectrum: 0.984538699965924
+typography_spectrum: 0.5406877021305263
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.11890803091228008
+  lightness: 0.7462195162661374
+  saturation: 0.6348416863474995
+  rhythmicContrast: 0.3956237572710961
+purpose: []
